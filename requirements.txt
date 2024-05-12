@@ -2,5 +2,4 @@ pyrogram
 kvsqlite
 requests
 pytelegrambotapi
-gatet
 time
