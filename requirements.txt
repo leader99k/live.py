@@ -1,2 +1,7 @@
 pyrogram
 kvsqlite
+requests
+pytelegrambotapi
+os
+gatet
+time
