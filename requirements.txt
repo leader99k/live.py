@@ -2,4 +2,3 @@ pyrogram
 kvsqlite
 requests
 pytelegrambotapi
-time
