@@ -83,7 +83,6 @@ def Tele(ccx):
     'user-agent': 'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36',
 }
 	
-	data = [
 	     data = {
     'payment_method': 'braintree_credit_card',
     'wc-braintree-credit-card-card-type': 'visa',
